@@ -1,6 +1,5 @@
 # PROYECTO-PARQUES_UN
-El proyecto de parques UN, 
-Parqués-UN es una recreación digital del clásico juego de mesa Parqués, implementada en Python utilizando las bibliotecas Pygame y Tkinter. El juego soporta múltiples jugadores e incluye características como lanzamiento de dados, movimiento de fichas y una interfaz gráfica. Los jugadores se turnan para lanzar los dados y mover sus fichas por el tablero, tratando de llegar a la meta y evitando ser enviados de nuevo a la cárcel por sus oponentes.
+El proyecto de parques UN, se enfoca en desarrollar una versión digital del juego de mesa tradicional de parqués, mediante la implementación del lenguaje de programación python. El propósito principal es aplicar los conocimientos adquiridos a lo largo del curso en la creación de un programa que implementa la lógica del juego y su visualización en una interfaz gráfica.
 
 Requisitos:
 Python
