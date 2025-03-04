@@ -3,8 +3,8 @@ El proyecto de parques UN, se enfoca en desarrollar una versión digital del jue
 
 Requisitos:
 Python
-tkinter (Liblreria)
-Pygame (Liblreria)
+tkinter (Libreria)
+
 
 Como ejecutar el juego:
 1. descarga el repositorio.
